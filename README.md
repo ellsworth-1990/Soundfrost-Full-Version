@@ -249,4 +249,4 @@ This repository serves as the official landing page for SoundFrost. The software
 **Get the most recent version of SoundFrost today!**
 
 ---
-**Last updated:** 2026-10-02 20:24:11 UTC
+**Last updated:** 2026-10-03 00:11:40 UTC
